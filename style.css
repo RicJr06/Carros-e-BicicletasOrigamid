@@ -1,0 +1,23 @@
+.titulo1 {
+  text-align: center;
+}
+
+div {
+  background: #111;
+  color: white;
+  border-radius: 4px;
+  padding: 25px;
+  margin: 40px;
+
+}
+
+span {
+  color: #febe01;
+}
+
+button {
+  background: #febe01;
+  color: #111;
+  border-radius: 4px;
+  height: 40px;
+}
